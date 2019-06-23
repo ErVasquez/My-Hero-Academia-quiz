@@ -1,0 +1,15 @@
+.Q2 {
+    display: flex;
+    margin-top: 35px;
+}
+
+.button {
+    display: flex;
+    margin-top: 40px;
+}
+
+body {
+    background-color: powderblue;
+}
+
+
